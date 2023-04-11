@@ -1,5 +1,11 @@
 # MovieBookingApp_ReactNative 
+  The movie booking app is a mobile application developed in React Native that allows users to easily browse and book movies from their mobile device. With this app, users can search for movies by title or other criteria, view details about each movie, and book tickets for showtimes at their preferred theater.
 
+The app provides a user-friendly interface that makes it easy to navigate through different screens, including a home screen, a search screen, a movie detail screen, and a booking screen. The app also features a secure payment system that allows users to pay for their tickets using a third-party payment processor, such as Stripe or PayPal.
+
+In addition to booking tickets, the app allows users to create an account and log in, view their booking history, and manage their profile information. Users can also rate and review movies, as well as share their favorite movies with friends on social media.
+
+Overall, the movie booking app provides a convenient and efficient way for users to discover and book movies on-the-go, while also providing a seamless user experience and advanced features for managing their bookings and preferences.
 # TechStack Used 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
