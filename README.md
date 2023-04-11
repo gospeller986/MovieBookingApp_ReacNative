@@ -23,3 +23,49 @@
 * The user can also select the seats , change the seats at real time .
 * The user can then Pay the amount billable through the Stripe Gateway .
 * The user will also get a unique QR code for their tickets .
+
+# Getting Started 
+
+  ##  Get into the project repository 
+   
+   ```javascript
+   cd MovieBooking
+   
+   ```
+   
+   ## Install the dependencies 
+   
+   ```javascript
+   npm install
+   ```
+   
+   ## Starting  the Server 
+   
+   ```javascript 
+   expo start 
+   or
+   npm start
+   ```
+   
+   ## Starting the andriod Emulator 
+   
+   ```javascript 
+     enter a
+   ```
+   
+   # Starting Up the Server 
+   
+   ## Get into the Backend Directory 
+   
+   ```javascript 
+      
+      cd MovieBooking_Backend
+   ```
+   
+   ## Start the Server 
+   
+   ```javascript 
+   
+      node index.js
+   
+   ```
