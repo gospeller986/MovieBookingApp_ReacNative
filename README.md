@@ -1,1 +1,1 @@
-# MovieBookingApp_ReacNative
+# MovieBookingApp_ReactNative
