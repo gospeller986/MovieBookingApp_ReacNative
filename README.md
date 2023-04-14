@@ -73,3 +73,17 @@ Overall, the movie booking app provides a convenient and efficient way for users
       node index.js
    
    ```
+# APPLICATION  SNAPSHOTS
+
+## HOMEPAGE
+![home-page](https://user-images.githubusercontent.com/86009168/232078694-0aad0bab-c3fc-4804-a820-3d7006ce2807.png)
+## SELECTION PAGE 1
+![selections-page](https://user-images.githubusercontent.com/86009168/232078794-0cf4db24-0135-4c0b-9471-e88194259ec5.png)
+## SELECTION PAGE 2
+![selections-page2](https://user-images.githubusercontent.com/86009168/232078840-00787767-4de8-47c6-8c54-071d7aa362b7.png)
+## SEAT PAGE
+![seat-page](https://user-images.githubusercontent.com/86009168/232078891-9b414d2c-53ba-40db-859e-6ce7d4be7ce0.png)
+## STRIPE PAYMENT 
+![stripe-payment](https://user-images.githubusercontent.com/86009168/232078946-f722c774-2aec-4d52-94b4-72c5d6ec7505.png)
+## TICKET GENERATION 
+![ticket-page](https://user-images.githubusercontent.com/86009168/232078984-dc09dc03-c331-4dae-8a5d-98c6ff58f8d0.png)
